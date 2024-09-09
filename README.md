@@ -1,7 +1,9 @@
 # The meme dispenser
 
 *The initial directory had 907 files but github has a limit for files so I only uploaded 72 memes :(*
-
+## Use
+> You could just drag and drop the `meme_dispenser.py` file in your personal meme directory
+*Warning:for now it only works with .jpg files, and sadly no video*
 ## Dependecies
 - python 3.7 and above
 - cv2
